@@ -1,0 +1,16 @@
+C:\Users\TEST\source\repos\DU\DU\bin\Debug\DU.exe
+C:\Users\TEST\source\repos\DU\DU\bin\Debug\DU.pdb
+C:\Users\TEST\source\repos\DU\DU\obj\Debug\DU.Form1.resources
+C:\Users\TEST\source\repos\DU\DU\obj\Debug\DU.Properties.Resources.resources
+C:\Users\TEST\source\repos\DU\DU\obj\Debug\DU.csproj.GenerateResource.Cache
+C:\Users\TEST\source\repos\DU\DU\obj\Debug\DU.csproj.CoreCompileInputs.cache
+C:\Users\TEST\source\repos\DU\DU\obj\Debug\DU.exe
+C:\Users\TEST\source\repos\DU\DU\obj\Debug\DU.pdb
+C:\Users\TEST\source\repos\DU\DU\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\TEST\source\repos\DU\DU\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\TEST\source\repos\DU\DU\bin\Debug\nunit.engine.dll
+C:\Users\TEST\source\repos\DU\DU\bin\Debug\nunit.engine.api.dll
+C:\Users\TEST\source\repos\DU\DU\bin\Debug\Mono.Cecil.dll
+C:\Users\TEST\source\repos\DU\DU\bin\Debug\nunit.framework.dll
+C:\Users\TEST\source\repos\DU\DU\bin\Debug\nunit.framework.pdb
+C:\Users\TEST\source\repos\DU\DU\bin\Debug\nunit.framework.xml
